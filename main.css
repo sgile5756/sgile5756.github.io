@@ -1,0 +1,65 @@
+﻿body
+{
+background:#A2B5FF url('blu_grd.jpg') repeat-x fixed;
+color:#463E3F; 
+font-family:Arial, Helvetica, sans-serif;
+font-size:11pt;
+height:auto;
+}
+
+#wrapper
+{
+	margin: auto;
+	height: auto;
+	width:800px;
+	border: 1px gray solid;
+	margin-top: 10px;
+	background-color:white;
+}
+
+#banner
+{
+	width:800px;
+	height:100px;
+	background-image: url('banner.jpg');
+	padding-bottom: 20px;
+}
+
+#main
+{
+	height:auto;
+	width:600px;
+	margin:auto;
+}
+
+.content
+{
+	width: 280px; 
+	height:auto; 
+	margin-bottom:35px;
+}
+
+.pic
+{
+	height:200px;
+	width:280px;
+	/*border: 1px #333333 solid;*/
+	border-bottom:0px;
+}
+
+.caption
+{
+	width:100%;
+	/*border: 1px #333333 solid;*/
+	border-top:0px;
+	text-align:center;
+	color:#342826;
+	height:30px;
+	padding-top:10px;
+}
+
+li
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+}

@@ -1,0 +1,36 @@
+﻿body{
+	background-color:#CCCCCC;
+	font-family:Verdana;
+	font-weight:600;
+	font-size:10pt;
+	/*color:#b39d92;*/
+	color:#333337;
+}
+
+#wrapper{
+	margin:auto;
+	background-color:#5e5e5e;
+	padding:15px;
+	width:900px;
+}
+
+#head{
+	margin-bottom:15px;
+}
+
+#content
+{
+	background:white;
+	height:600px;
+}
+
+.green
+{
+	color:#8ea120;
+	font-family:Tahoma;
+}
+
+.center{
+	text-align:center;
+	width:100%;
+}
